@@ -40,7 +40,7 @@ Crearás un chatbot con la habilidad de contestar preguntas basadas en la
 información de un documento, por ejemplo un archivo `txt` o `pdf`, para esto
 podrás utilizar la herramienta [Flowise](https://flowiseai.com/) para extender
 la funcionalidad de un chatbot tradicional, crearás un chatflow utilizando las
-herramientas disponibles para darle esta capacidades a tu chatbot.
+herramientas disponibles para darle esta capacidades a tu chatbot
 
 ![image](https://github.com/Laboratoria/DEV006-md-links/assets/5282075/2ef997e5-22b8-4f92-b4a0-9d000e31c4f1)
 
